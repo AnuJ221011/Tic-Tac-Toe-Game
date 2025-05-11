@@ -8,7 +8,7 @@ function Icon({name}){
         return <FaTimes/>
     }
     else{
-        return <FaPen/>
+        return <FaPen color='purple'/>
     }
 
 }
