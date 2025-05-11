@@ -4,13 +4,14 @@
     justify-content: center;
     align-items: center;
     border: 10px solid white;
-    padding: 20px;
+    padding: 10px;
+    margin: 0px;
 }
 
 .grid{
     display: flex;
-    height: 500px;
-    width: 500px;
+    height: 460px;
+    width: 460px;
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
@@ -21,6 +22,7 @@
     background-color: rgb(38, 82, 228);
     padding: 10px;
     border-radius: 10px;
+    margin-top: 0px;
 }
 
 .reset{
